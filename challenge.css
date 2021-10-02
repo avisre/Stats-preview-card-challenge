@@ -99,7 +99,7 @@ h1{
         border-radius: 0 1rem 1em 0;
         box-shadow: 10px black;
         overflow: hidden;
-        max-width: 70%;
+        max-width: 100%;
         min-width: 50%;
     }
     
