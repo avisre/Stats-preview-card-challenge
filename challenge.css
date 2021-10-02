@@ -16,10 +16,9 @@ body {
    
     display: flex;
     flex-direction: row;
-    
-    border-radius: 20px;
-  
-           
+     position: relative;
+    right: 7%;
+        border-radius:20px;
 }
 
 h1{
