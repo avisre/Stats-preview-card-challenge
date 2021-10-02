@@ -145,7 +145,7 @@ text-align: center;
 footer{
        display: flex;
        flex-direction: column;
-       justify-content: space-around;
+       margin-left: 40px;
 }
     @media(max-width:635px){
         main{
@@ -235,7 +235,9 @@ h1,p,footer{
     right: 10px;
 }
 footer{
-padding: 0;}
+ display: flex;
+    justify-content: center;
+    }
 
   
      
