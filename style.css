@@ -16,7 +16,7 @@ body {
 }
      
     main{
-        max-width:70%;
+        max-width:85%;
     background-color: hsl(244, 38%, 16%);
     border-radius: 20px;
     display: flex;
