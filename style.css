@@ -12,6 +12,8 @@ height: 100vh;
   
  
   }
+
+/* left side card */
      
     main{
         width: 65rem;
@@ -83,7 +85,7 @@ h1{
  }
 
  
- 
+/*  Right side card */
   .container {
      padding: 30px 30px 0 0;
      background-color: hsl(244, 38%, 16%);
